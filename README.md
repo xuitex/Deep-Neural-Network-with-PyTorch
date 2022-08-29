@@ -1,2 +1,1 @@
-# Deep-Neural-Network-with-PyTorch
- Fourth course of the IBM AI Engineering specialization  Resources  Readme
+# Coursera IBM course on Deep Learning on Pytorch
